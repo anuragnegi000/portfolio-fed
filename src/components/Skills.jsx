@@ -12,7 +12,7 @@ const Skills = () => {
     },
     {
       category: 'Library',
-      items: ['jQuery', 'ReactJS', 'Material UI'],
+      items: ['ReactJS', 'Material UI'],
     },
     {
       category: 'Design',
