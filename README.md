@@ -8,7 +8,6 @@ My personal website made using React and hosted on Vercel.
 
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 
 ## License
