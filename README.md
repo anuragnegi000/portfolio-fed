@@ -8,6 +8,7 @@ My personal website made using React and hosted on Vercel.
 
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- EmailJS
 
 
 ## License
